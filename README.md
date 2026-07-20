@@ -10,7 +10,6 @@ I enjoy transforming raw data into meaningful insights through data pipelines, a
 
 - Computer Science Student
 - Data Engineering Trainee
-- Problem Solver
 - Research-Oriented Learner
 - Interested in Data, AI, and Analytics
 - Passionate about building real-world projects
