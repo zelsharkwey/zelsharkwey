@@ -96,13 +96,10 @@ Currently improving my skills in:
 ## Connect With Me
 
 💼 LinkedIn:
-<YOUR_LINKEDIN_URL>
+https://www.linkedin.com/in/zeyad-ali-elsharkawey/
 
 📧 Email:
 elsharkaweyzeyad@gmail.com
 
 ---
 
-## Philosophy
-
-> Learn continuously. Build consistently. Improve relentlessly.
